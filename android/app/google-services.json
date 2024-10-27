@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432129272409",
+    "project_id": "simpleregisterationapp",
+    "storage_bucket": "simpleregisterationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432129272409:android:c48de44f24d5812b1d9f48",
+        "android_client_info": {
+          "package_name": "com.babyboomer.simpleregistrationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7tVtMAR57FRh5mQMkXvXmICmH_QS8veA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
