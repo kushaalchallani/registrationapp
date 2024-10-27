@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.babyboomer" "\0"
-            VALUE "FileDescription", "registrationapp" "\0"
+            VALUE "FileDescription", "simpleregistrationapp" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "registrationapp" "\0"
+            VALUE "InternalName", "simpleregistrationapp" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.babyboomer. All rights reserved." "\0"
-            VALUE "OriginalFilename", "registrationapp.exe" "\0"
-            VALUE "ProductName", "registrationapp" "\0"
+            VALUE "OriginalFilename", "simpleregistrationapp.exe" "\0"
+            VALUE "ProductName", "simpleregistrationapp" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

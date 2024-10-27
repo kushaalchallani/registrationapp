@@ -1,4 +1,4 @@
-# registrationapp
+# simpleregistrationapp
 
 A new Flutter project.
 

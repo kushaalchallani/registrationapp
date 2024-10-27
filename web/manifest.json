@@ -1,6 +1,6 @@
 {
-    "name": "registrationapp",
-    "short_name": "registrationapp",
+    "name": "simpleregistrationapp",
+    "short_name": "simpleregistrationapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
